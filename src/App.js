@@ -50,7 +50,7 @@ const App = () => {
       <button onClick={() => setShow(true) }>Basket</button>
       <Modal title="Shopping Basket" onClose={() => setShow(false)} show={show}>
       <p>{basket}</p>
-      <p>{basketTotal}</p>
+      <p>total price: {basketTotal}</p>
       </Modal>
 </div>
     )}

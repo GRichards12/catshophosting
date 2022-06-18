@@ -50,9 +50,7 @@ const CatPicture = (
         <div>
             <p>{catPrice}</p>
         </div>
-    <div>
-        <button className = "purrchaseKittyButton">PURRCHASE KITTY</button>
-    </div>
+
                 <button className="purrchaseKittyButton" onClick={() => setBasket([...basket,[catName,catPrice]])}>Add to basket</button>
                 </div></div></div>))}
                 

@@ -20,12 +20,12 @@ const App = () => {
     <div className='dronePictureContainer'>
         <img className='drone' src={image} alt="drone"/>
     </div>
-    <div class='communityTextContainer'>
+    <div className='communityTextContainer'>
     <h2>Community. Pawsitivity. Kitties</h2>
     <p>Here At The Kitten Exchange We Are Here For You And All Your Feline Needs. Whether It’s A Fluffy Kitty<br/>Or Smooth Kitty, A Grumpy Kitty Or Cheery Kitty – We Are Here For You. Whilst Offering Many Other<br/> Services (Kitty TV, Kitty VR, PocketKitti) Our Primary Responsibility Is Delivering Your Chosen Kitty With<br/> The Immediacy We All Know, Love And Expect In These Modern Times. For Even Quicky Delivery Be Sure<br/> To Subscribe As A Prime Kitty Member.</p>
     </div>
     </div>
-    <div class='aboutMiddleContainer'>
+    <div className='aboutMiddleContainer'>
     </div>
     <div className='catAndTextContainer'>
     <div className='purrfectTextContainer'>
